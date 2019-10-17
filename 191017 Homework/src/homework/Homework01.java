@@ -5,7 +5,7 @@ public class Homework01 {
 
 	public static void main(String[] args) {
 	
-	//원의 반지름으로 원의 넓이 구하
+	//원의 반지름으로 원의 넓이 구하기
 
 		Scanner sc = new Scanner(System.in);
 		System.out.print("원의 반지름을 입력하시오. : ");
